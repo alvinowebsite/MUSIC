@@ -3,7 +3,6 @@ plugins {
     id("org.jetbrains.kotlin.android")
     id("com.google.devtools.ksp")
 }
-
 android {
     namespace = "com.app.music"
     compileSdk = 34
